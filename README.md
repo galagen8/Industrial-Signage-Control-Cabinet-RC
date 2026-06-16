@@ -20,7 +20,7 @@ Electrical control cabinet and power distribution system for a high-power outdoo
 
 ### Thermal & Cabinet Engineering
 * **Active Cooling:** Forced-air ventilation using a 220VAC enclosure fan.
-* **Thermal Dissipation Design:** Adherence to strict placement guidelines (5mm lateral clearance for components) and direct chassis-to-grounded-backplane mounting for optimal thermal sinking and EMC mitigation.
+* **Thermal Dissipation Design:** Adherence to strict placement guidelines (5mm lateral clearance for components) and direct chassis-to-grounded-backplane mounting PSUs for optimal thermal sinking and EMC mitigation.
 
 ---
 
