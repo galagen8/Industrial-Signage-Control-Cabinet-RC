@@ -72,7 +72,7 @@ The project evaluates three different cable cross-sections (`10mm²`, `16mm²`, 
 | **G1-G3** | Power Supply 24V | MeanWell LRS-350-24 | 3 x 350W Industrial PSU |
 | **KV1** | Voltage Monitoring | RS PRO 122-215 | Grid Protection |
 
-*(The full interactive BOM is available in the `docs/` directory).*
+*(The full BOM is available in the `docs/` directory).*
 
 ---
 
